@@ -20,7 +20,7 @@
   <img align="center" alt="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="SQLServer" height="30" width="40" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png">
   <img align="center" alt="AEM" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/adobe-experience-manager.svg">
-  <img align="right"  alt="gif" height="170" width="170" src="https://a.imagem.app/ohHrHa.gif">
+  <img align="right"  alt="gif" height="175" width="175" src="https://a.imagem.app/ohHrHa.gif">
 </div>
   
   ##
