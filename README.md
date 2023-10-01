@@ -1,9 +1,9 @@
 ## Hi there! My name is Ana Beatriz dos Santos Dantas, a student of Systems Analysis and Development who loves to learn new technologies ❤✨💻
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AnaBeatrizDosSantosDantas&icons=true&theme=radical&rank_icon=github" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=AnaBeatrizDosSantosDantas&icons=true&theme=radical&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnaBeatrizDosSantosDantas&theme=radical&layout=compact&langs_count=8&card_width=320" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnaBeatrizDosSantosDantas&theme=radical&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <div style="display: inline_block"><br>
