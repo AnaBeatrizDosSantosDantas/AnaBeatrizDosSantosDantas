@@ -37,7 +37,7 @@
 
   ##
  
-### There is a little about myself 👋
+### Here is a little about myself: 
 
 - 🔭 I’m currently searching for a job 😅
 - 🌱 I’m currently learning React, Node.js and TypeScript
