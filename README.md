@@ -1,4 +1,10 @@
-## Hi there! My name is Ana Beatriz dos Santos Dantas, a student of Systems Analysis and Development who loves to learn new technologies ❤✨💻
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=71e8f5&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c21089&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;+My+name+is+Ana+Beatriz+dos+Santos+Dantas;I'm+a+student+of+Systems+Analysis+and+Development;And+I+love+to+learn+new+technologies;Welcome+to+my+Github+page!!!)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnaBeatrizDosSantosDantas&bg_color=0d1117&color=71e8f5&line=c21089&point=0a535e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+##  ❤✨💻
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=AnaBeatrizDosSantosDantas&icons=true&theme=radical&rank_icon=github" />
 </a>
