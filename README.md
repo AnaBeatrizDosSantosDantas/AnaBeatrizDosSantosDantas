@@ -46,6 +46,6 @@
 - 🧡 I have a great interest in the programming field, particularly in relation to the Adobe Experience Manager (AEM) CMS
 - 💙 I completed the English course at Wizard by Pearson - ITU/SP (6 years) and the Intensive Spanish at Target Idiomas
 - 👩🏻‍💻 I did an internship focused on Information Systems Data Analysis, where I managed and controled tickets and tasks, as well as assisted with spreadsheets management
-- - ⚡ Fun fact: I LOVE puzzles 🧩💘
+- ⚡ Fun fact: I LOVE puzzles 🧩💘
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=71e8f5&height=120&section=footer"/>
