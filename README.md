@@ -50,6 +50,5 @@
 
 ### My Holopin badges: 
 
-[![An image of @anabeatrizdossantosdantas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anabeatrizdossantosdantas)](https://holopin.io/@anabeatrizdossantosdantas)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=71e8f5&height=120&section=footer"/>
