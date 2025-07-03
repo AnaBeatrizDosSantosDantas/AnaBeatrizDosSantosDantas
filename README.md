@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=71e8f5&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c21089&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;+My+name+is+Ana+Beatriz+dos+Santos+Dantas;I'm+a+student+of+Systems+Analysis+and+Development;And+I+love+to+learn+new+technologies;Welcome+to+my+GitHub+Page!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c21089&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;+My+name+is+Ana+Beatriz+dos+Santos+Dantas;I'm+a+graduate+in+Systems+Analysis+and+Development;+Currently+studying+Software+Engineering+at+USP/ESALQ;And+I+love+to+learn+new+technologies;Welcome+to+my+GitHub+Page!)](https://git.io/typing-svg)
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnaBeatrizDosSantosDantas&bg_color=0d1117&color=71e8f5&line=c21089&point=0a535e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -13,6 +14,7 @@
 </a>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -40,13 +42,20 @@
  
 ### Here is a little about myself: 
 
-- 🔭 I’m currently searching for a job 😅
-- 🌱 I’m currently learning React, Node.js and TypeScript
-- 🏫 I completed the Technical Course in Systems Development integrated with High School
-- 🧡 I have a great interest in the programming field, particularly in relation to the Adobe Experience Manager (AEM) CMS
-- 💙 I completed the English course at Wizard by Pearson - ITU/SP (6 years) and the Intensive Spanish at Target Idiomas
-- 👩🏻‍💻 I did an internship focused on Information Systems Data Analysis, where I managed and controled tickets and tasks, as well as assisted with spreadsheets management
-- ⚡ Fun fact: I LOVE puzzles 🧩💘
+🔐 I’m currently a Jr Information Security Analyst, where I help design, develop, and optimize cybersecurity and data protection solutions.
+
+💡 I work mainly with Python (Flask) for backend APIs, integrate features with JavaScript, analyze phishing/farming attacks, refactor legacy code, and manage tickets with autonomy. I also document processes, support clients, and develop in Linux environments — all while applying version control best practices with Git.
+
+💻 I’m passionate about programming languages and development as a whole, with a strong interest in technologies like React, Node.js, TypeScript and especially Adobe Experience Manager (AEM) as a CMS platform.
+
+🎓 I hold a Bachelor’s degree in Systems Analysis and Development from FATEC Indaiatuba and I’m currently pursuing a postgraduate degree in Software Engineering at USP/ESALQ.
+
+🏫 I also completed a Technical Course in Systems Development integrated with High School.
+
+🌐 I speak English fluently (Wizard by Pearson – 6 years, ITU/SP) and completed an Intensive Spanish program at Target Idiomas.
+
+🧩 Fun fact: I’m obsessed with puzzles, challenges, and anything that stimulates logical thinking!
+
 
 ### My Holopin badges: 
 
